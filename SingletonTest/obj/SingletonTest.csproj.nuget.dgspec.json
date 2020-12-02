@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj": {}
+    "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj": {}
   },
   "projects": {
-    "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj": {
+    "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj",
+        "projectUniqueName": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj",
         "projectName": "SingletonTest",
-        "projectPath": "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj",
+        "projectPath": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj",
         "packagesPath": "/home/code4life/.nuget/packages/",
-        "outputPath": "/home/code4life/DesignPattern/SingletonTest/obj/",
+        "outputPath": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/code4life/.nuget/NuGet/NuGet.Config"

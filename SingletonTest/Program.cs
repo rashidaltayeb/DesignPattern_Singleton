@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace SingletonTest
 {
@@ -6,10 +7,20 @@ namespace SingletonTest
     {
         static void Main(string[] args)
         {
-            Singleton empolyee = Singleton.GeSingleton;
-            empolyee.PrintMessage("From Employee");
+            Parallel.Invoke(
+                () => PrintEmpolyeeMessage(),
+                () => PrintStudentMessage());
+        }
+        private static void PrintStudentMessage()
+        {
             Singleton student = Singleton.GeSingleton;
             student.PrintMessage("From student");
+        }
+
+        private static void PrintEmpolyeeMessage()
+        {
+            Singleton empolyee = Singleton.GeSingleton;
+            empolyee.PrintMessage("From Employee");
         }
     }
 }

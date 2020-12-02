@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj",
+    "projectUniqueName": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj",
     "projectName": "SingletonTest",
-    "projectPath": "/home/code4life/DesignPattern/SingletonTest/SingletonTest.csproj",
-    "outputPath": "/home/code4life/DesignPattern/SingletonTest/obj/",
+    "projectPath": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/SingletonTest.csproj",
+    "outputPath": "/home/code4life/DesignPattern/SingletonTest/DesignPattern_Singleton/SingletonTest/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"
