@@ -1,0 +1,16 @@
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.csprojAssemblyReference.cache
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.AssemblyInfoInputs.cache
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.AssemblyInfo.cs
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.csproj.CoreCompileInputs.cache
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest.deps.json
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest.runtimeconfig.json
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest.runtimeconfig.dev.json
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest.dll
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/ref/SingletonTest.dll
+/home/code4life/DesignPattern/SingletonTest/bin/Debug/net5.0/SingletonTest.pdb
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.dll
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/ref/SingletonTest.dll
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.pdb
+/home/code4life/DesignPattern/SingletonTest/obj/Debug/net5.0/SingletonTest.genruntimeconfig.cache
